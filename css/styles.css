@@ -44,7 +44,7 @@
 
 .hero {
   height: 60vh;
-  background-image: url("https://github.com/Mohak-Trivedi/xCruise/blob/main/assests/hero-cruise.png?raw=true");
+  background-image: url("../images/hero-cruise.png?raw=true");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
